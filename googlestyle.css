@@ -103,7 +103,7 @@ div span {
 
 .SearchBar:hover {
 	border: none;
-	box-shadow: 0px 0px 7px 0.3px white;
+	box-shadow: 0px 0px 7px 0.3px black;
 }
 
 .googleSearch {
