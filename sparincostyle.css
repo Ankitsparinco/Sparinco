@@ -23,12 +23,12 @@ nav ul {       /* This is gmail, images and account owner module  */
 }
 
 ul li a {
-	color: black;
+	color: #3478da;
 	text-decoration: none;
 }
 
 ul li a:hover {
-	color: black;
+	color: rgb(28, 179, 166);
 	text-decoration: underline;
 }
 
