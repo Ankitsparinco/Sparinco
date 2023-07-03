@@ -16,10 +16,10 @@ nav {
 	margin: 10px 20px;
 }
 
-nav ul {
+nav ul {       /* This is gmail, images and account owner module  */
 	display: flex;
-	justify-content: left;
-	align-items: top-corner;
+	justify-content: right;
+	align-items: center;
 }
 
 ul li a {
