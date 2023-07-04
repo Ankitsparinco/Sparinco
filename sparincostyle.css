@@ -74,6 +74,9 @@ div span {
 .green {
 	color: rgb(52, 168, 83);
 }
+.black {
+	color: rgb(240,248,255);
+}
 
 .symbol {
 	text-align: center;
