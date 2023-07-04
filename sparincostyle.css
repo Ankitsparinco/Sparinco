@@ -18,8 +18,9 @@ nav {
 
 nav ul {       /* This is gmail, images and account owner module  */
 	display: flex;
-	justify-content: right;
+	justify-content: left;
 	align-items: center;
+	position: absolute; top: 20px; left: 1px; 
 }
 
 ul li a {
