@@ -48,7 +48,7 @@ img[alt="ankit's photos"] {
 }
 
 img[alt="ankit's photos"]:hover {
-	box-shadow: 0px 0px 10px 0.1px black;
+	box-shadow: 0px 0px 10px 0.1px blue;
 }
 
 .cell {cursor: cell;}
