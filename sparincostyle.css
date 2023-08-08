@@ -33,6 +33,12 @@ ul li a:hover {
 	text-decoration: underline;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
 .material-symbols-outlined {
 	font-size: 30px;
 	color: rgb(196, 92, 118);
