@@ -230,12 +230,6 @@ body {
     font-family: Arial, sans-serif;
 }
  
-h1 {
-    color: #6203e0;
-    margin-bottom: 2rem;
-}
- 
-
 .appWeb {
 	display: grid;
 	justify-content: center;
