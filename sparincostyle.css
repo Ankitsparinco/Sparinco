@@ -16,11 +16,11 @@ nav {
 	margin: 5px 10px;
 }
 
-nav ul {       /* This is gmail, images and account owner module  */
+nav ul {       /* About And Github Module */
 	display: flex;
-	justify-content: left-bottom;
+	justify-content: left;
 	align-items: center;
-	position: absolute; top: 20px; left: 1px; 
+	position: absolute; top: 20px; left: 2px; 
 }
 
 ul li a {
