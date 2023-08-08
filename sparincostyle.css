@@ -16,6 +16,12 @@ nav {
 	margin: 5px 10px;
 }
 
+ul {
+  list-style-type: none;
+  margin: 10;
+  padding: 2;
+}
+ 
 nav ul {       /* About And Github Module */
 	display: flex;
 	justify-content: left;
@@ -33,11 +39,6 @@ ul li a:hover {
 	text-decoration: underline;
 }
 
-ul {
-  list-style-type: none;
-  margin: 10;
-  padding: 2;
-}
 
 .material-symbols-outlined {
 	font-size: 30px;
