@@ -16,12 +16,6 @@ nav {
 	margin: 5px 10px;
 }
 
-ul {
-  text-align: center;
-  margin: 10;
-  padding: 2;
-}
- 
 nav ul {       /* About And Github Module */
 	display: flex;
 	justify-content: left;
