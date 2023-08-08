@@ -35,8 +35,8 @@ ul li a:hover {
 
 ul {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  margin: 10;
+  padding: 2;
 }
 
 .material-symbols-outlined {
